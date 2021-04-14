@@ -1,0 +1,30 @@
+
+.preto{
+	color: black;
+	font-size: 22px;
+}
+
+#p1 {
+	color: black;
+	font-family: gotham;
+	font-size: 42px;
+
+}
+
+#font1 {
+	font-family: gotham;
+	font-size: 55px;
+}
+
+.size{
+	font-size: 20px;
+}
+
+#font2 {
+	font-family: gotham;
+	font-size: 20px;
+}
+body{
+	background-color:  #fbfaff;
+}
+
